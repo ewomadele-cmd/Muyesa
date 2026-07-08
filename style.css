@@ -1,0 +1,28 @@
+*body {
+    background-color: hsl(34, 50%, 89%);
+}
+
+header {
+    background-color: aqua;
+    font-size: 35px;
+    margin: auto;
+    text-align: center;
+    font-weight: 250px;
+}
+
+nav {
+    background-color: hsla(240, 24%, 19%, 0.656);
+}
+
+a:hover {
+    background-color: rgba(224, 213, 213, 0.747);
+}
+
+a:active {
+    background-color: hsl(21, 61%, 47%);
+}
+
+footer {
+    background-color: rgb(141, 43, 43);
+    text-align: center;
+}
